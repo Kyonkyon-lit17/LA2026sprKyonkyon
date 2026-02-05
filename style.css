@@ -226,14 +226,14 @@ header a:hover{
     top:0;
     left:0;
     z-index: 3;
-    width:65%
+    width:65%;
 }
 
 .club-img img:nth-child(2){
     top:30%;
     bottom:0;
     z-index: 1;
-    width:85%
+    width:85%;
 }
 
 .club-img img:nth-child(3){

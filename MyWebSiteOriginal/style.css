@@ -79,7 +79,7 @@ header a:hover{
     align-items:center;
     justify-content:flex-end;
     height: 100vh;
-    background-image: url('images/originaldisney.jpg');
+    background-image: url('originalimages/originaldisney.jpg');
     background-position: center;
     background-size: cover;
 }
